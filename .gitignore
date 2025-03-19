@@ -3,3 +3,4 @@ credentials.json
 token.pickle
 pyproject.toml
 .python-version
+token.json
