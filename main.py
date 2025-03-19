@@ -107,10 +107,10 @@ class GoogleMeetCreator:
 if __name__ == "__main__":
     creator = GoogleMeetCreator('credentials.json')    
     json_input = {
-        "attendees": ["shivangana.chaturvedi@w3era.net"],
-        "summary": "bruaaaah",
+        "attendees": ["example@google.com"],
+        "summary": "Pepsi Man",
         "description": "Testing this script...",
-        "timezone": "Asia/Kolkata",
+        "timezone": "UTC",
         "start_date": "2025-03-19T11:46:26",
         "end_date": "2025-03-19T13:08:41"
     }
